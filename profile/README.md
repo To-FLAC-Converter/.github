@@ -1,6 +1,5 @@
 # 🎼 To FLAC Converter for macOS — Lossless Audio Ingest, Batch Normalization & Metadata-Preserving Workflows
 
-![To FLAC Converter Icon](https://amvidia.com/images/icons/to-flac-converter-icon-160.png)
 
 <!-- Download Button #1 — badge/shield style -->
 <div align="center" style="margin:14px 0 18px;">
